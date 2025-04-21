@@ -1,6 +1,11 @@
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,pycharm,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,pycharm,venv
 
+
+# Custom directories
+practice/
+Spark-The-Definitive-Guide-Databricks/
+
 ### macOS ###
 # General
 .DS_Store
