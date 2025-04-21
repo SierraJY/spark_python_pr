@@ -6,5 +6,6 @@
 
 ```bash
 docker build -t my-spark-env .
- docker container run -it --name spark1_c --mount type=bind,source=$(pwd),destination=/opt/workspace/ my-spark-env
+
+docker container run -it --name spark1_c --mount type=bind,source=$(pwd),destination=/opt/workspace/ my-spark-env
 ```
