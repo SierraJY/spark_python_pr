@@ -3,6 +3,8 @@
 
 
 # Custom directories
+pr/
+venv/
 practice/
 Spark-The-Definitive-Guide/
 
